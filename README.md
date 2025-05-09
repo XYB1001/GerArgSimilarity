@@ -53,4 +53,12 @@ CC-BY-SA-4.0
 ## Reference
 
 If you use this dataset please cite the following:
-TBC
+<pre>
+@inproceedings{bai2022argument,
+  title={Argument Similarity Assessment in German for Intelligent Tutoring: Crowdsourced Dataset and First Experiments},
+  author={Bai, Xiaoyu and Stede, Manfred},
+  booktitle={Proceedings of the Thirteenth Language Resources and Evaluation Conference},
+  pages={2177--2187},
+  year={2022}
+}
+</pre>
